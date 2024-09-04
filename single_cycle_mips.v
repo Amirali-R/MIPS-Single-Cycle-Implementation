@@ -1,6 +1,6 @@
 //===========================================================//
 //
-//			Amirali Rajaee - 401101716
+//			Amirali Rajaee
 //
 //			Implemented Instructions are:
 //			R format:  add(u), sub(u), and, or, xor, nor, slt, sltu;
